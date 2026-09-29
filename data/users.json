@@ -1,0 +1,14 @@
+[
+  {
+    "id": "usr_1790656834719_ad84bf08",
+    "username": "dara",
+    "passwordHash": "$2b$10$PFHT.QM3RdTscLIvlCQjqe9tEjp9BA/0x7OIe4udnLr2CrbEsaz5e",
+    "createdAt": "2026-09-29T04:40:34.719Z"
+  },
+  {
+    "id": "usr_1790657201761_88d3999f",
+    "username": "demo_user",
+    "passwordHash": "$2b$10$C4QDGsY5Yg73jsVjBD2SnevYkRCiktiugnbK2wjhQCq8rNGJVCL5q",
+    "createdAt": "2026-09-29T04:46:41.761Z"
+  }
+]
